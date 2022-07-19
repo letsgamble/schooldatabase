@@ -1,0 +1,85 @@
+supervisor
+Krzysztof Baczynski
+1a
+1b
+2a
+
+supervisor
+Jan Brzechwa
+1c
+2b
+
+teacher
+Jan Dlugosz
+Polish
+1a
+1b
+1c
+
+teacher
+Maria Konopnicka
+Polish
+2a
+2b
+2c
+
+teacher
+Stanislaw Lem
+Physics
+2a
+2b
+2c
+2d
+
+teacher
+Henryk Sienkiewicz
+History
+1a
+1b
+1d
+2a
+2b
+
+student
+Jan Brzechwa
+1a
+student
+Jan Dlugosz
+1a
+student
+Aleksander Fredro
+1b
+student
+Witold Gombrowicz
+1b
+student
+Zbigniew Herbert
+1c
+student
+Hanna Krall
+2a
+student
+Zygmunt Krasinski
+2a
+student
+Jan Andrzej Morsztyn
+2a
+student
+Malgorzata Musierowicz
+2b
+student
+Cyprian Kamil Norwid
+2b
+student
+Eliza Orzeszkowa
+1a
+student
+Juliusz Slowacki
+2c
+student
+Julian Tuwim
+2c
+student
+Stanislaw Wyspianski
+2c
+end
